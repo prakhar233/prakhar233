@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sipolya</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **react.js & java**
+- 🌱 I’m currently learning **Backend & java**
 
 - 👯 I’m looking to collaborate on **Open Source program**
 
